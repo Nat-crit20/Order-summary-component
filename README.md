@@ -38,12 +38,12 @@ Users should be able to:
 
 ### What I learned
 
-With this project I learned more about how to read documentation, strengthed my flex box skills, and add hover elements. I also learned about media queries and adding background images. It is also at this point that I am starting to better understand positioning in css.
+With this project, I learned more about how to read documentation, strengthened my flex box skills, and added hover elements. I also learned about media queries and adding background images. It is also at this point that I am starting to better understand positioning in CSS.
 
 ### Continued development
 
-I would like to continue to devolope my documentaion reading as well as try to continue to better understand flex box and positioning.
+I would like to continue to develop my documentation reading as well as try to continue to better understand flex box and positioning.
 
 ## Author
 
-- Frontend Mentor - [@Val@7997](https://www.frontendmentor.io/profile/Val7997)
+- Frontend Mentor - [@Nat-crit20](https://www.frontendmentor.io/profile/Nat-crit20)
